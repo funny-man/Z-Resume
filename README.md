@@ -40,7 +40,9 @@
 >基于vue全家桶做的一款音乐webapp ,漂亮的ui设计近乎原生一样的顺滑体验
 
 预览地址：[https://funny-man.github.io/vue-ZeePlayer-preview](https://funny-man.github.io/vue-ZeePlayer-preview/#/essence)
+
 github源码：[https://github.com/funny-man/vue-ZeePlayer-code](https://github.com/funny-man/vue-ZeePlayer-code)
+
 技术栈：
 - 这个项目基于Vue2.0 使用 Vue CLI --脚手架搭建项目
 - 用到**Vue Router**--做前端路由
@@ -55,7 +57,9 @@ github源码：[https://github.com/funny-man/vue-ZeePlayer-code](https://github.
 > 项目描述： 这是我的第一个一个原生js项目,主要在于检验自己的js学习程度。
 
 预览地址：[http://zeeliu666.coding.me/zmusic/](http://zeeliu666.coding.me/zmusic/)
+
 github源码：[https://github.com/funny-man/z-music](https://github.com/funny-man/z-music)
+
 技术栈：纯**原生JavaScript**编写，css预编译选择用的**Sass**，使用的**ES6**规范，**模块化编程** **面向对象**的方法编程方式，自行进行基础的**配置webpack**，
 
 
@@ -63,8 +67,11 @@ github源码：[https://github.com/funny-man/z-music](https://github.com/funny-m
 > 通过这个项目**熟悉npm**的使用；同时有一点点**Node.js**的了解；**Node.js的模块化**；**axios**的使用
 
 npm地址：[https://www.npmjs.com/package/mood-weather](https://www.npmjs.com/package/mood-weather)
+
 github源码：[https://github.com/funny-man/mood-weather](https://github.com/funny-man/mood-weather)
+
 项目博客：[https://www.jianshu.com/p/b5d0e182175d](https://www.jianshu.com/p/b5d0e182175d)
+
 使用方法：
 
     // 安装
@@ -75,7 +82,9 @@ github源码：[https://github.com/funny-man/mood-weather](https://github.com/fu
     
     
 ## **组件集合**
+
 github源码：[https://github.com/funny-man/zee-Essembly](https://github.com/funny-man/zee-Essembly)
+
 
 预览：
 
